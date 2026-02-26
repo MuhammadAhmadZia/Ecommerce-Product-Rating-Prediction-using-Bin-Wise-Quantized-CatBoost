@@ -4,17 +4,27 @@ This repository contains the official implementation of a green machine learning
 Unlike conventional ML models that prioritize predictive accuracy alone, this work integrates environmental sustainability into the evaluation pipeline by measuring energy usage and CO₂ emissions during training.
 
 Key Contributions:
+
 > Implementation of Bin-Wise feature quantization (64, 128, 255 bins) before iterative boosting.
+
 > Reduction of memory usage and training overhead.
+
 > Up to 66% lower CO₂ emissions compared to standard CatBoost.
+
 > Maintained or improved predictive accuracy.
+
 > Achieved near-perfect performance (R² ≈ 0.99999 on Amazon dataset).
+
 > Comparative evaluation against:
+
   >   Linear Regression
+
   >   Standard CatBoost
 
 Datasets Used:
+
 > Amazon product dataset
+
 > Flipkart product dataset
 
 Research Impact:
