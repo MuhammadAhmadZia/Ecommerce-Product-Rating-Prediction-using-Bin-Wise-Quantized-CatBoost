@@ -29,4 +29,4 @@ Datasets Used:
 
 Research Impact:
 
-This work bridges the gap between predictive performance and environmental responsibility by demonstrating that high-accuracy models can also be energy-efficient. The proposed framework positions Bin-Wise Quantized CatBoost as a sustainable alternative for large-scale e-commerce platforms.
+> This work bridges the gap between predictive performance and environmental responsibility by demonstrating that high-accuracy models can also be energy-efficient. The proposed framework positions Bin-Wise Quantized CatBoost as a sustainable alternative for large-scale e-commerce platforms.
